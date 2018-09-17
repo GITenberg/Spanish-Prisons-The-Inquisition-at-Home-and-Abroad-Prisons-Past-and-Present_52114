@@ -1,0 +1,27 @@
+_repo: Spanish-Prisons-The-Inquisition-at-Home-and-Abroad-Prisons-Past-and-Present_52114
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Griffiths, Arthur
+    alias: Griffiths, Arthur George Frederick
+    birthdate: 1838
+    deathdate: 1908
+    gutenberg_agent_id: '3987'
+    url: http://www.gutenberg.org/2009/agents/3987
+description: ''
+gutenberg_issued: '2016-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The History and Romance of Crime
+subjects:
+- !lcsh 'Inquisition -- Spain'
+- !lcc 'HV'
+- !lcsh 'Prisons -- Spain -- History'
+- GITenberg
+title: "Spanish Prisons\r\nThe Inquisition at Home and Abroad, Prisons Past and Present"
+url: http://www.gutenberg.org/ebooks/52114
