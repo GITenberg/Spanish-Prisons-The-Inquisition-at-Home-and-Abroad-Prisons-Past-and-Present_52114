@@ -1,5 +1,8 @@
 _repo: Spanish-Prisons-The-Inquisition-at-Home-and-Abroad-Prisons-Past-and-Present_52114
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52114-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffiths, Arthur
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '3987'
     url: http://www.gutenberg.org/2009/agents/3987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52114#Spanish-Prisons-The-Inquisition-at-Home-and-Abroad-Prisons-Past-and-Present
 gutenberg_issued: '2016-05-21'
 gutenberg_type: Text
 identifiers:
